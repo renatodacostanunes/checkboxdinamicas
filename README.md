@@ -1,7 +1,7 @@
-# Checkboxes Din‚micas
-## Checkboxes Din‚micas com gerÍnciamento de estado feito com MobX
+# Checkboxes Din√¢micas
+## Checkboxes Din√¢micas com ger√™nciamento de estado feito com MobX
 
-Abaixo o gif de todo o funcionamento do app, que ao marcar as checkboxes, cria cards respectivos automaticamente, tambÈm È possÌvel remover os cards clicando no bot„o de deletar ao lado do card, ou desmarcando a checkbox...
+Abaixo o gif de todo o funcionamento do app, que ao marcar as checkboxes, cria cards respectivos automaticamente, tamb√©m √© poss√≠vel remover os cards clicando no bot√£o de deletar ao lado do card, ou desmarcando a checkbox...
 
 
-![]()
+![](https://github.com/renatodacostanunes/checkboxdinamicas/blob/master/checkboxgif.gif)
